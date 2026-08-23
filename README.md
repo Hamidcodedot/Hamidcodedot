@@ -95,13 +95,13 @@ Mindset  : Clean Architecture • High Performance • Security First
 
 ---
 
-### 📈 Telemetry & GitHub Analytics
+### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamidcodedot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidcodedot&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="47%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamidcodedot&theme=tokyonight" width="49%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamidcodedot&theme=tokyonight" width="47%" alt="Repos per Language" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidcodedot&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=64748b&background=0f172a" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidcodedot&theme=tokyo-night&hide_border=true" width="97%" alt="Activity Graph" />
 </div>
 
 ---
