@@ -1,0 +1,77 @@
+﻿<svg fill="none" viewBox="0 0 900 240" width="100%" height="240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+    
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.8" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.8" stroke-opacity="0.4" />
+      <circle cx="0" cy="0" r="1.5" fill="#38BDF8" fill-opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Background Canvas with Rounded Corners -->
+  <rect width="900" height="240" rx="16" fill="url(#bgGrad)" />
+  <rect width="900" height="240" rx="16" fill="url(#grid)" />
+
+  <!-- Outer Glowing Border -->
+  <rect x="1.5" y="1.5" width="897" height="237" rx="15" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Decorative Tech Accents -->
+  <circle cx="35" cy="30" r="5" fill="#EF4444" opacity="0.8" />
+  <circle cx="52" cy="30" r="5" fill="#F59E0B" opacity="0.8" />
+  <circle cx="69" cy="30" r="5" fill="#10B981" opacity="0.8" />
+  <text x="95" y="34" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1">HAMIDSHAHID // NEURAL_NODE_01</text>
+
+  <!-- Status Indicator -->
+  <rect x="740" y="20" width="125" height="24" rx="12" fill="#0F172A" stroke="#10B981" stroke-width="1" />
+  <circle cx="754" cy="32" r="3.5" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="766" y="36" fill="#10B981" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">ONLINE • ACTIVE</text>
+
+  <!-- Main Name Header -->
+  <text x="450" y="115" text-anchor="middle" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, sans-serif" font-size="44" font-weight="900" letter-spacing="3" filter="url(#glow)">HAMID SHAHID</text>
+  <text x="450" y="115" text-anchor="middle" fill="url(#textGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, sans-serif" font-size="44" font-weight="900" letter-spacing="3">HAMID SHAHID</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="152" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="1.5">AI Systems Engineer <tspan fill="#38BDF8">•</tspan> Cloud &amp; DevOps Architect</text>
+
+  <!-- Tech Focus Badges -->
+  <g transform="translate(160, 180)">
+    <!-- Badge 1 -->
+    <rect x="0" y="0" width="160" height="28" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="80" y="18" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🤖 Autonomous AI</text>
+
+    <!-- Badge 2 -->
+    <rect x="175" y="0" width="130" height="28" rx="6" fill="#0F172A" stroke="#818CF8" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="240" y="18" text-anchor="middle" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">⚡ C++ &amp; Python</text>
+
+    <!-- Badge 3 -->
+    <rect x="320" y="0" width="130" height="28" rx="6" fill="#0F172A" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="385" y="18" text-anchor="middle" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">☁️ Cloud &amp; K8s</text>
+
+    <!-- Badge 4 -->
+    <rect x="465" y="0" width="115" height="28" rx="6" fill="#0F172A" stroke="#34D399" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="522" y="18" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🛡️ MLOps &amp; Sec</text>
+  </g>
+</svg>

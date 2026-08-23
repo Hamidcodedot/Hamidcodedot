@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,24&height=220&section=header&text=Hamid%20Shahid&fontSize=48&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20Architect&descFontSize=19&descAlignY=60&descAlign=50" width="100%" alt="Hamid Shahid Header" />
+  <img src="./assets/header.svg" width="100%" alt="Hamid Shahid Header" />
 
   <br/>
 
