@@ -1,175 +1,120 @@
 ﻿<div align="center">
 
-```text
- ___________________________________________________________________
-|                                                             - X |
-|===================================================================|
-|  _   _                 _     _ ____  _           _     _          |
-| | | | | __ _ _ __ ___ (_) __| / ___|| |__   __ _(_) __| |         |
-| | |_| |/ _` | '_ ` _ \| |/ _` \___ \| '_ \ / _` | |/ _` |         |
-| |  _  | (_| | | | | | | | (_| |___) | | | | (_| | | (_| |         |
-| |_| |_|\__,_|_| |_| |_|_|\__,_|____/|_| |_|\__,_|_|\__,_|         |
-|                                                                   |
-|===================================================================|
-| > Host: neural-cluster-01 [STATUS: ONLINE]                        |
-| > Kernel: Linux 6.8.0-ai-mlops-x86_64                             |
-| > Role: AI Systems & Cloud Infrastructure Engineer                |
-|___________________________________________________________________|
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Hamid%20Shahid&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Architect&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Hamid Shahid Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;Architecting+Scalable+Cloud+%26+MLOps+Infrastructure;Securing+Modern+Distributed+Systems;Passionate+about+Engineering+Excellence+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/hamid-shahid-2b0448330" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/ch_hamid77" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
+    <a href="https://github.com/Hamidcodedot">
+      <img src="https://img.shields.io/badge/GitHub-Hamidcodedot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```yaml
+Name     : Hamid Shahid
+Handle   : @Hamidcodedot
+Focus    : Artificial Intelligence, MLOps & Cloud Infrastructure
+Mission  : Turning complex AI research into production-grade, resilient systems
+Mindset  : Clean Architecture • High Performance • Security First
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hamid+Shahid+%F0%9F%91%8B;Building+Autonomous+AI+Agents+%26+LLM+Pipelines...;Architecting+Scalable+Cloud+%26+MLOps+Infra...;Securing+Modern+Cloud-Native+Environments...;Always+shipping+reliable+software+%F0%9F%9A%80)](https://git.io/typing-svg)
+- 🤖 **AI & LLM Engineering:** Specializing in autonomous multi-agent architectures, retrieval-augmented generation (RAG), and fine-tuning.
+- ☁️ **Cloud & Infrastructure:** Designing self-healing Kubernetes clusters, CI/CD automation, and Infrastructure as Code (IaC).
+- 🔒 **Security & Reliability:** Implementing zero-trust principles and robust telemetry for high-availability systems.
+- ⚡ **Continuous Learning:** Exploring high-performance GPU computing with Triton & CUDA kernels.
 
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+#### 🧠 Artificial Intelligence & Machine Learning
 <p align="center">
-  <a href="https://github.com/Hamidcodedot">
-    <img src="https://img.shields.io/badge/System_Status-All_Systems_Operational-2ea44f?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hamid-shahid-2b0448330" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hamid_Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ch_hamid77" target="_blank">
-    <img src="https://img.shields.io/badge/X-@ch__hamid77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn&theme=dark" alt="AI & ML" />
+  <br/>
+  <sub><b>Frameworks & Tools:</b> LangChain • LlamaIndex • LangGraph • Hugging Face • vLLM • Ollama • Vector DBs (Qdrant, Pinecone)</sub>
+</p>
+
+#### ☁️ Cloud, DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,ansible,githubactions,linux&theme=dark" alt="DevOps & Cloud" />
+  <br/>
+  <sub><b>Infra & Orchestration:</b> K8s • Helm • ArgoCD • Docker • Terraform • AWS • GCP • Linux Servers</sub>
+</p>
+
+#### 💻 Backend, Databases & Core Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,redis,git,bash&theme=dark" alt="Backend & Tools" />
+  <br/>
+  <sub><b>Backend & Data:</b> FastAPI • Node.js • PostgreSQL • Redis • MongoDB • REST / gRPC • Bash Scripting</sub>
 </p>
 
 </div>
 
 ---
 
-### 🖥️ `$ neofetch --ai-engineer`
+### 🚀 Featured Highlights & Projects
 
-```bash
-                  -`                    hamid@neural-node
-                 .o+`                   -----------------
-                `ooo/                   OS: Arch Linux x86_64 / Ubuntu Server
-               `+oooo:                  Host: Distributed Multi-GPU Cluster
-              `+oooooo:                 Kernel: 6.8.0-ai-native
-              -+oooooo+:                Uptime: 24/7/365 (Always shipping 🚀)
-            `/:-:++oooo+:               Shell: zsh 5.9 (x86_64-pc-linux-gnu)
-           `/++++/+++++++:              IDE: VS Code / Cursor / Neovim
-          `/++++++++++++++:             Domain: AI/ML Engineering & Cloud DevOps
-         `/+++ooooooooooooo/`           Core Focus: LLMs, Multi-Agent Systems, MLOps
-        ./ooosssso++osssssso+`          Current Mission: Productionizing Scalable AI
-       .oossssso-````/ossssss+`         Memory: 100% Context Window Utilized
-      -osssssso.      :ssssssso.        GPU: 8x NVIDIA H100 (In Spirit & Code)
-     :osssssss/        osssso+++.       
-    /ossssssss/        +ssssooo/-       
-  `/ossssso+/:-        -:/+osssso+-     
- `+sso+:-`                 `.-/+oso:    
-`++:.                           `-/+/   
-```
-
----
-
-### 📂 `$ cat ~/developer/profile.json`
-
-```json
-{
-  "engineer": {
-    "name": "Hamid Shahid",
-    "handle": "Hamidcodedot",
-    "title": "AI / ML Engineer & Cloud Infrastructure Architect",
-    "location": "Remote",
-    "interests": [
-      "Large Language Models & Autonomous Multi-Agent Workflows",
-      "MLOps & Scalable Inference Pipelines",
-      "Cloud Architecture & Kubernetes Orchestration",
-      "Zero-Trust Infrastructure & Cloud Security"
-    ],
-    "currently_learning": "Advanced Distributed Training & GPU Kernel Optimization (Triton / CUDA)",
-    "philosophy": "Simplicity, Reliability, and High-Performance Scalability."
-  }
-}
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Autonomous Agentic RAG System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangGraph-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vector_DB-Qdrant-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+      <p>Multi-agent knowledge retrieval system with self-reflective reasoning, hallucination reduction, and streaming API responses.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">☁️ Kubernetes MLOps Auto-Scaler</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      </p>
+      <p>Dynamic GPU/CPU cluster autoscaling for distributed LLM inference workloads with automated CI/CD deployment pipelines.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⚙️ `$ systemctl status tech-stack.service`
+### 📈 Telemetry & GitHub Analytics
 
-<div align="left">
-
-#### 🧠 **AI / ML & Data Science**
-```yaml
-● LLM Frameworks   : LangChain, LlamaIndex, LangGraph, vLLM, Ollama
-● Deep Learning    : PyTorch, TensorFlow, Hugging Face Transformers
-● Vector DBs       : Pinecone, Qdrant, Milvus, ChromaDB, PGVector
-● Data Processing  : NumPy, Pandas, Polars, Scikit-learn, Ray
-```
-
-#### ☁️ **Cloud, DevOps & Infrastructure**
-```yaml
-● Containerization : Docker, Docker Compose, Podman
-● Orchestration    : Kubernetes (K8s), Helm, K3s, ArgoCD
-● Cloud Providers  : AWS, GCP, Azure, DigitalOcean
-● IaC & CI/CD      : Terraform, Ansible, GitHub Actions, GitLab CI
-```
-
-#### 🛠️ **Languages, Databases & Backend**
-```yaml
-● Languages        : Python, Go, TypeScript/JavaScript, Bash/Shell, SQL
-● Databases        : PostgreSQL, Redis, MongoDB, ClickHouse
-● Backend/APIs     : FastAPI, Node.js, Express, Flask, gRPC, REST
-● OS & SecOps      : Linux (Debian, Arch, RHEL), OpenSSL, Vault, WireGuard
-```
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamidcodedot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidcodedot&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="47%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidcodedot&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=64748b&background=0f172a" width="97%" alt="GitHub Streak" />
 </div>
 
 ---
 
-### ⚡ `$ ps aux | grep active-projects`
-
-| PID | PROCESS NAME | DOMAIN | STATUS | REPO / DETAILS |
-| :-- | :--- | :--- | :--- | :--- |
-| `1024` | **Autonomous Agentic RAG Pipeline** | `AI / LangGraph` | <img src="https://img.shields.io/badge/RUNNING-green?style=flat-square"/> | Enterprise Knowledge Base with self-correcting retrieval |
-| `2048` | **Kubernetes MLOps Auto-Scaler** | `DevOps / K8s` | <img src="https://img.shields.io/badge/DEPLOYED-blue?style=flat-square"/> | Dynamic GPU cluster scaling for batch model inference |
-| `4096` | **Secure Zero-Trust IaC Template** | `Security / IaC` | <img src="https://img.shields.io/badge/ACTIVE-purple?style=flat-square"/> | Terraform modules with automated policy-as-code checks |
-
----
-
-### 📊 `$ top -b -n 1 | head -n 25 # Telemetry & GitHub Analytics`
+### 🐍 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hamidcodedot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidcodedot&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamidcodedot&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-
+  <img src="https://raw.githubusercontent.com/Hamidcodedot/Hamidcodedot/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-### 🐍 `$ git status # Contribution Activity Graph`
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hamidcodedot/Hamidcodedot/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> _(Contribution snake is updated automatically every 24 hours via GitHub Actions)_
-
----
-
-### 📡 `$ curl -X POST https://api.hamidshahid.dev/v1/ping`
-
-```json
-{
-  "status": 200,
-  "message": "Always open to collaborating on breakthrough AI projects and high-scale infra.",
-  "channels": {
-    "github"   : "https://github.com/Hamidcodedot",
-    "linkedin" : "https://www.linkedin.com/in/hamid-shahid-2b0448330",
-    "x_twitter": "https://x.com/ch_hamid77"
-  }
-}
-```
-
-<div align="center">
-
-```text
-===================================================================
-[ SYSTEM SHUTDOWN: NO ]  ::  [ KEEP HACKING & BUILDING 🚀 ]
-===================================================================
-```
-
+  <p><i>"Simplicity is the prerequisite for reliability."</i> — Edsger W. Dijkstra</p>
+  <p>⭐️ <i>Always open to collaborating on breakthrough AI and cloud engineering challenges!</i></p>
 </div>
