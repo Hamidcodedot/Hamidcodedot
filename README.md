@@ -42,26 +42,39 @@ I am an AI Systems Engineer and Cloud & DevOps Architect specializing in autonom
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" width="33%"><b>Languages &amp; Systems</b></td>
-    <td align="center" width="33%"><b>AI &amp; Backend</b></td>
-    <td align="center" width="33%"><b>Cloud &amp; DevOps</b></td>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python,cpp,linux&theme=dark" alt="Languages & Systems" />
-      <br/><sub><b>Python • C++ • Linux</b></sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=pytorch,fastapi,postgres&theme=dark" alt="AI & Backend" />
-      <br/><sub><b>PyTorch • FastAPI • PostgreSQL</b></sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Cloud & DevOps" />
-      <br/><sub><b>Docker • Kubernetes • AWS</b></sub>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="33%">Languages &amp; Systems</th>
+      <th align="center" width="33%">AI &amp; Backend</th>
+      <th align="center" width="33%">Cloud &amp; DevOps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python,cpp,ts,bash,linux&theme=dark" alt="Languages &amp; Systems" />
+        <br/><br/>
+        <sub><b>Python • C++ • TypeScript • Bash • Linux</b></sub>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,postgres,redis&theme=dark" alt="AI &amp; Backend" />
+        <br/><br/>
+        <sub><b>PyTorch • TensorFlow • FastAPI • PostgreSQL • Redis</b></sub>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform&theme=dark" alt="Cloud &amp; DevOps" />
+        <br/><br/>
+        <sub><b>Docker • Kubernetes • AWS • GCP • Terraform</b></sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 </div>
