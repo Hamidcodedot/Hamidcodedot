@@ -69,6 +69,17 @@
 
 </div>
 
+#### Production AI Architecture Layers
+
+Beyond raw tools, production-grade AI systems require a structured architectural pipeline across each layer of the modern AI stack:
+
+- **Compute & Systems:** C++, Python, CUDA/Triton kernels, and Linux GPU clusters for compute-bound performance and low-latency execution.
+- **Modeling & Training:** PyTorch, Hugging Face Transformers, fine-tuning pipelines (LoRA/QLoRA), and open-weights reasoning models.
+- **Agentic Orchestration:** LangGraph, LangChain, and LlamaIndex for stateful multi-agent workflows, tool-use loops, and autonomous task execution.
+- **Context & Retrieval (RAG):** Vector databases (Qdrant, Pinecone, pgvector), dense-sparse hybrid search, cross-encoder rerankers, and semantic chunking.
+- **Serving & High-Throughput Inference:** vLLM, Ollama, TensorRT-LLM, model quantization (AWQ/GGUF), asynchronous streaming APIs via FastAPI and gRPC.
+- **MLOps, Cloud & Guardrails:** Docker, Kubernetes (GPU-aware autoscaling), Terraform, CI/CD automation, observability, and security guardrails.
+
 ---
 
 ### Featured Projects
