@@ -77,32 +77,6 @@ Beyond raw tools, production-grade AI systems require a structured architectural
 - **Serving & High-Throughput Inference:** vLLM, Ollama, TensorRT-LLM, model quantization (AWQ/GGUF), asynchronous streaming APIs via FastAPI and gRPC.
 - **MLOps, Cloud & Guardrails:** Docker, Kubernetes (GPU-aware autoscaling), Terraform, CI/CD automation, observability, and security guardrails.
 
----
-
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Autonomous Agentic RAG System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <p>Self-correcting multi-agent knowledge engine with dynamic retrieval, hallucination evaluation, and streaming API responses.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">High-Throughput MLOps Cluster</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-      <p>Low-latency inference orchestration with GPU-aware Kubernetes autoscaling and automated CI/CD deployment pipelines.</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
