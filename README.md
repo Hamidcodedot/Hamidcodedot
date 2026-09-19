@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <img src="./assets/header.svg" width="100%" alt="Hamid Shahid Header" />
 
@@ -34,10 +34,7 @@
 
 ### About Me
 
-- **AI & Machine Learning:** Designing autonomous multi-agent systems, advanced RAG architectures, and fine-tuning pipelines.
-- **High-Performance Computing:** Writing optimized, low-latency code in C++ and Python for compute-intensive workloads.
-- **Cloud & DevOps:** Building resilient Kubernetes clusters, automated CI/CD workflows, and Infrastructure as Code (IaC).
-- **Engineering Philosophy:** Simplicity, scalability, and verifiable system reliability.
+I am an AI Systems Engineer and Cloud & DevOps Architect specializing in autonomous multi-agent workflows, scalable retrieval-augmented generation (RAG) pipelines, and high-performance computing. Operating at the intersection of low-latency systems engineering (C++ and Python) and cloud-native infrastructure (Docker and Kubernetes), I bridge the gap between machine learning models and resilient, production-ready architectures built for scale and security.
 
 ---
 
