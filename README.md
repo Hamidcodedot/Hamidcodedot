@@ -47,27 +47,22 @@
 
 <table border="0">
   <tr>
-    <td align="center" width="25%"><b>Languages &amp; Core</b></td>
-    <td align="center" width="25%"><b>AI / ML &amp; LLMs</b></td>
-    <td align="center" width="25%"><b>Cloud &amp; DevOps</b></td>
-    <td align="center" width="25%"><b>Backend &amp; Data</b></td>
+    <td align="center" width="33%"><b>Languages &amp; Systems</b></td>
+    <td align="center" width="33%"><b>AI &amp; Backend</b></td>
+    <td align="center" width="33%"><b>Cloud &amp; DevOps</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=cpp,python,bash,git&theme=dark" alt="Languages" />
-      <br/><sub><b>C++ • Python • Bash • Git</b></sub>
+      <img src="https://skillicons.dev/icons?i=python,cpp,linux&theme=dark" alt="Languages & Systems" />
+      <br/><sub><b>Python • C++ • Linux</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" alt="AI & ML" />
-      <br/><sub><b>PyTorch • TensorFlow • LangChain</b></sub>
+      <img src="https://skillicons.dev/icons?i=pytorch,fastapi,postgres&theme=dark" alt="AI & Backend" />
+      <br/><sub><b>PyTorch • FastAPI • PostgreSQL</b></sub>
     </td>
     <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" alt="DevOps" />
-      <br/><sub><b>Docker • K8s • AWS • Linux</b></sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark" alt="Backend" />
-      <br/><sub><b>FastAPI • PostgreSQL • Redis</b></sub>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" alt="Cloud & DevOps" />
+      <br/><sub><b>Docker • Kubernetes • AWS</b></sub>
     </td>
   </tr>
 </table>
