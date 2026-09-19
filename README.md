@@ -83,7 +83,33 @@ Beyond raw tools, production-grade AI systems require a structured architectural
 ### Top Languages by Repository
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamidcodedot&theme=tokyonight" width="420" alt="Top Languages by Repository" />
+
+  <a href="https://github.com/Hamidcodedot?tab=repositories" title="Explore all repositories by Hamid Shahid">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamidcodedot&theme=tokyonight" width="450" alt="Top Languages by Repository" />
+  </a>
+
+  <br/><br/>
+
+  <p>
+    <a href="https://github.com/Hamidcodedot?tab=repositories&q=&type=&language=python" title="Filter Python repositories">
+      <img src="https://img.shields.io/badge/Python-View_Repos-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Repositories" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Hamidcodedot?tab=repositories&q=&type=&language=c%2B%2B" title="Filter C++ repositories">
+      <img src="https://img.shields.io/badge/C++-View_Repos-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Repositories" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Hamidcodedot?tab=repositories&q=&type=&language=typescript" title="Filter TypeScript repositories">
+      <img src="https://img.shields.io/badge/TypeScript-View_Repos-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Repositories" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Hamidcodedot?tab=repositories&q=&type=&language=shell" title="Filter Shell repositories">
+      <img src="https://img.shields.io/badge/Shell-View_Repos-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Repositories" />
+    </a>
+  </p>
+
+  <sub>Click the visualization or any language pill above to directly inspect matching repositories on GitHub.</sub>
+
 </div>
 
 ---
