@@ -5,26 +5,26 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;Architecting+Scalable+Cloud+%26+MLOps+Infra;High-Performance+Computing+with+C%2B%2B+%26+Python;Engineering+Reliable%2C+Production-Ready+Systems+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;Architecting+Scalable+Cloud+%26+MLOps+Infra;High-Performance+Computing+with+C%2B%2B+%26+Python;Engineering+Reliable%2C+Production-Ready+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="mailto:iamhamid940@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-iamhamid940%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Gmail-iamhamid940%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/hamid-shahid-2b0448330" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Hamid%20Shahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Hamid%20Shahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://x.com/ch_hamid77" target="_blank">
-      <img src="https://img.shields.io/badge/X-@ch__hamid77-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+      <img src="https://img.shields.io/badge/X-@ch__hamid77-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
     </a>
     &nbsp;
     <a href="https://github.com/Hamidcodedot">
-      <img src="https://img.shields.io/badge/GitHub-Hamidcodedot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Hamidcodedot-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -32,25 +32,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🧠 **AI & LLMs:** Designing autonomous multi-agent systems, advanced RAG architectures, and fine-tuning pipelines.
-- ⚡ **High Performance & Core:** Writing optimized, low-latency code in **C++** and **Python** for compute-intensive workloads.
-- ☁️ **Cloud & DevOps:** Building resilient Kubernetes clusters, automated CI/CD workflows, and Infrastructure as Code (IaC).
-- 🛡️ **Engineering Philosophy:** Simplicity, scalability, and rock-solid system reliability.
+- **AI & Machine Learning:** Designing autonomous multi-agent systems, advanced RAG architectures, and fine-tuning pipelines.
+- **High-Performance Computing:** Writing optimized, low-latency code in C++ and Python for compute-intensive workloads.
+- **Cloud & DevOps:** Building resilient Kubernetes clusters, automated CI/CD workflows, and Infrastructure as Code (IaC).
+- **Engineering Philosophy:** Simplicity, scalability, and verifiable system reliability.
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td align="center" width="25%"><b>Languages & Core</b></td>
-    <td align="center" width="25%"><b>AI / ML & LLMs</b></td>
-    <td align="center" width="25%"><b>Cloud & DevOps</b></td>
-    <td align="center" width="25%"><b>Backend & Data</b></td>
+    <td align="center" width="25%"><b>Languages &amp; Core</b></td>
+    <td align="center" width="25%"><b>AI / ML &amp; LLMs</b></td>
+    <td align="center" width="25%"><b>Cloud &amp; DevOps</b></td>
+    <td align="center" width="25%"><b>Backend &amp; Data</b></td>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -76,12 +76,12 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Autonomous Agentic RAG System</h3>
+      <h3 align="center">Autonomous Agentic RAG System</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square" />
@@ -90,7 +90,7 @@
       <p>Self-correcting multi-agent knowledge engine with dynamic retrieval, hallucination evaluation, and streaming API responses.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">☁️ High-Throughput MLOps Cluster</h3>
+      <h3 align="center">High-Throughput MLOps Cluster</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -103,38 +103,15 @@
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### Top Languages by Repository
 
 <div align="center">
-
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamidcodedot&theme=tokyonight" width="100%" alt="Profile Details" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamidcodedot&theme=tokyonight" width="100%" alt="Languages Breakdown" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamidcodedot&theme=tokyo-night&hide_border=true" width="98%" alt="Commit Activity Graph" />
-
-</div>
-
----
-
-### 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hamidcodedot/Hamidcodedot/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamidcodedot&theme=tokyonight" width="420" alt="Top Languages by Repository" />
 </div>
 
 ---
 
 <div align="center">
   <p><i>"Simplicity is the prerequisite for reliability."</i> — Edsger W. Dijkstra</p>
-  <p>💡 <i>Open for discussions on AI Engineering, Cloud Infrastructure & High-Performance Systems.</i></p>
+  <p>Open for discussions on AI Engineering, Cloud Infrastructure, and High-Performance Systems.</p>
 </div>

@@ -56,22 +56,22 @@
   <!-- Subtitle -->
   <text x="450" y="152" text-anchor="middle" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="1.5">AI Systems Engineer <tspan fill="#38BDF8">•</tspan> Cloud &amp; DevOps Architect</text>
 
-  <!-- Tech Focus Badges -->
-  <g transform="translate(160, 180)">
+  <!-- Tech Focus Badges (No Emojis) -->
+  <g transform="translate(122, 180)">
     <!-- Badge 1 -->
-    <rect x="0" y="0" width="160" height="28" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
-    <text x="80" y="18" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🤖 Autonomous AI</text>
+    <rect x="0" y="0" width="145" height="28" rx="6" fill="#0F172A" stroke="#38BDF8" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="72.5" y="18" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">Autonomous AI</text>
 
     <!-- Badge 2 -->
-    <rect x="175" y="0" width="130" height="28" rx="6" fill="#0F172A" stroke="#818CF8" stroke-width="1" stroke-opacity="0.6"/>
-    <text x="240" y="18" text-anchor="middle" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">⚡ C++ &amp; Python</text>
+    <rect x="160" y="0" width="140" height="28" rx="6" fill="#0F172A" stroke="#818CF8" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="230" y="18" text-anchor="middle" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">C++ &amp; Python</text>
 
     <!-- Badge 3 -->
-    <rect x="320" y="0" width="130" height="28" rx="6" fill="#0F172A" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6"/>
-    <text x="385" y="18" text-anchor="middle" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">☁️ Cloud &amp; K8s</text>
+    <rect x="315" y="0" width="170" height="28" rx="6" fill="#0F172A" stroke="#C084FC" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="400" y="18" text-anchor="middle" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">Cloud &amp; Kubernetes</text>
 
     <!-- Badge 4 -->
-    <rect x="465" y="0" width="115" height="28" rx="6" fill="#0F172A" stroke="#34D399" stroke-width="1" stroke-opacity="0.6"/>
-    <text x="522" y="18" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">🛡️ MLOps &amp; Sec</text>
+    <rect x="500" y="0" width="155" height="28" rx="6" fill="#0F172A" stroke="#34D399" stroke-width="1" stroke-opacity="0.6"/>
+    <text x="577.5" y="18" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600">MLOps &amp; Security</text>
   </g>
 </svg>
