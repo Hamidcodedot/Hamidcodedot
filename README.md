@@ -1,11 +1,11 @@
-<div align="center">
+﻿<div align="center">
 
   <img src="./assets/header.svg" width="100%" alt="Hamid Shahid Header" />
 
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Building+Autonomous+AI+Agents+%26+LLM+Pipelines;Architecting+Scalable+Cloud+%26+MLOps+Infra;High-Performance+Computing+with+C%2B%2B+%26+Python;Engineering+Reliable%2C+Production-Ready+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Aspiring+Software+%26+AI+Developer;Building+Solid+Foundations+in+Python+%26+TypeScript;Developing+Modern+Web+Applications+with+Next.js;Exploring+Machine+Learning+%26+Intelligent+Systems;Committed+to+Continuous+Learning+%26+Building" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -34,7 +34,7 @@
 
 ### About Me
 
-I am an AI Systems Engineer and Cloud & DevOps Architect specializing in autonomous multi-agent workflows, scalable retrieval-augmented generation (RAG) pipelines, and high-performance computing. Operating at the intersection of low-latency systems engineering (C++ and Python) and cloud-native infrastructure (Docker and Kubernetes), I bridge the gap between machine learning models and resilient, production-ready architectures built for scale and security.
+I am an aspiring software and AI developer focused on building solid programming fundamentals and practical applications. My core work centers around Python for logic building and scripting, modern web development with TypeScript and Next.js, and object-oriented programming in C/C++ and C#. Passionate about continuous learning, I am actively exploring machine learning concepts and documenting my development journey through hands-on projects and consistent problem solving.
 
 ---
 
@@ -45,32 +45,32 @@ I am an AI Systems Engineer and Cloud & DevOps Architect specializing in autonom
 <table width="100%">
   <thead>
     <tr>
-      <th align="center" width="33%">Languages &amp; Systems</th>
-      <th align="center" width="33%">AI &amp; Backend</th>
-      <th align="center" width="33%">Cloud &amp; DevOps</th>
+      <th align="center" width="33%">Languages &amp; Core</th>
+      <th align="center" width="33%">Web &amp; Databases</th>
+      <th align="center" width="33%">Tools &amp; Workflow</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center" valign="top">
         <br/>
-        <img src="https://skillicons.dev/icons?i=python,cpp,ts,bash,linux&theme=dark" alt="Languages &amp; Systems" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,js&theme=dark" alt="Languages &amp; Core" />
         <br/><br/>
-        <sub><b>Python • C++ • TypeScript • Bash • Linux</b></sub>
-        <br/><br/>
-      </td>
-      <td align="center" valign="top">
-        <br/>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,postgres,redis&theme=dark" alt="AI &amp; Backend" />
-        <br/><br/>
-        <sub><b>PyTorch • TensorFlow • FastAPI • PostgreSQL • Redis</b></sub>
+        <sub><b>Python • C++ • C# • TypeScript • JavaScript</b></sub>
         <br/><br/>
       </td>
       <td align="center" valign="top">
         <br/>
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform&theme=dark" alt="Cloud &amp; DevOps" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,postgres,supabase&theme=dark" alt="Web &amp; Databases" />
         <br/><br/>
-        <sub><b>Docker • Kubernetes • AWS • GCP • Terraform</b></sub>
+        <sub><b>Next.js • React • Tailwind CSS • PostgreSQL • Supabase</b></sub>
+        <br/><br/>
+      </td>
+      <td align="center" valign="top">
+        <br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools &amp; Workflow" />
+        <br/><br/>
+        <sub><b>Git • GitHub • VS Code • Linux</b></sub>
         <br/><br/>
       </td>
     </tr>
@@ -79,17 +79,12 @@ I am an AI Systems Engineer and Cloud & DevOps Architect specializing in autonom
 
 </div>
 
-#### Production AI Architecture Layers
+#### Current Focus & Learning Journey
 
-Beyond raw tools, production-grade AI systems require a structured architectural pipeline across each layer of the modern AI stack:
-
-- **Compute & Systems:** C++, Python, CUDA/Triton kernels, and Linux GPU clusters for compute-bound performance and low-latency execution.
-- **Modeling & Training:** PyTorch, Hugging Face Transformers, fine-tuning pipelines (LoRA/QLoRA), and open-weights reasoning models.
-- **Agentic Orchestration:** LangGraph, LangChain, and LlamaIndex for stateful multi-agent workflows, tool-use loops, and autonomous task execution.
-- **Context & Retrieval (RAG):** Vector databases (Qdrant, Pinecone, pgvector), dense-sparse hybrid search, cross-encoder rerankers, and semantic chunking.
-- **Serving & High-Throughput Inference:** vLLM, Ollama, TensorRT-LLM, model quantization (AWQ/GGUF), asynchronous streaming APIs via FastAPI and gRPC.
-- **MLOps, Cloud & Guardrails:** Docker, Kubernetes (GPU-aware autoscaling), Terraform, CI/CD automation, observability, and security guardrails.
-
+- **Programming Foundations:** Deepening data structures, algorithms, and logic building in Python and C/C++.
+- **Full-Stack Development:** Designing clean, responsive web applications using Next.js, TypeScript, Tailwind CSS, and database integrations.
+- **AI & Data Exploration:** Studying machine learning fundamentals, data analysis techniques, and following a structured AI engineering roadmap.
+- **Engineering Habits:** Practicing strict version control with Git, writing readable modular code, and building real-world projects.
 
 ---
 
@@ -128,6 +123,6 @@ Beyond raw tools, production-grade AI systems require a structured architectural
 ---
 
 <div align="center">
-  <p><i>"Simplicity is the prerequisite for reliability."</i> — Edsger W. Dijkstra</p>
-  <p>Open for discussions on AI Engineering, Cloud Infrastructure, and High-Performance Systems.</p>
+  <p><i>"Continuous improvement is better than delayed perfection."</i> — Mark Twain</p>
+  <p>Open to learning opportunities, collaborative projects, and feedback.</p>
 </div>
